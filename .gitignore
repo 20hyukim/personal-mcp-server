@@ -1,3 +1,7 @@
+### Personal ###
+src/main/resources/application-secret.yml
+
+### Java ###
 HELP.md
 .gradle
 build/
