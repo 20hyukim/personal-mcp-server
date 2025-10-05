@@ -35,8 +35,8 @@ dependencies {
     testRuntimeOnly 'org.junit.platform:junit-platform-launcher'
 
     // mcp
-    implementation platform("org.springframework.ai:spring-ai-starter-mcp-server")
-    implementation platform("org.springframework:spring-web")
+    implementation platform("org.springframework.ai:spring-ai-bom:1.1.0-M3")
+    implementation 'org.springframework.ai:spring-ai-starter-mcp-server'
 }
 
 tasks.named('test') {

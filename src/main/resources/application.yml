@@ -1,0 +1,5 @@
+spring:
+  application:
+    name: mcp_server
+  main:
+    banner-mode: off
