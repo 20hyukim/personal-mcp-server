@@ -37,6 +37,9 @@ dependencies {
     // mcp
     implementation platform("org.springframework.ai:spring-ai-bom:1.1.0-M3")
     implementation 'org.springframework.ai:spring-ai-starter-mcp-server'
+
+    // mysql
+    implementation("mysql:mysql-connector-java:8.0.33")
 }
 
 tasks.named('test') {
