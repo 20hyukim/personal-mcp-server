@@ -59,5 +59,5 @@ mysql:
 
 ## 프로젝트 생성 과정
 
-프로젝트 생성 과정 및 상세 설정 방법은 아래 Wiki 페이지를 참조해주세요:
-https://krafton.atlassian.net/wiki/spaces/webtechteam/pages/764909405/MCP+Claude+code+Intellij+Wiki+MCP
+프로젝트 생성 과정 및 상세 설정 방법은 아래 velog 페이지를 참조해주세요:
+[코딩을 뿌리는 감자 velog](https://velog.io/@20hyukim/MCP-Claude-Code%EC%97%90%EC%84%9C-Intellij%EC%99%80-Wiki-MCP-%EC%84%9C%EB%B2%84-%EC%97%B0%EB%8F%99%ED%95%98%EA%B8%B0)
