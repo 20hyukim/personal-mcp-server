@@ -1,6 +1,6 @@
 package mcp.mcp_server.wiki;
 
-import mcp.mcp_server.wiki.config.WikiProperties;
+import mcp.mcp_server.wiki.properties.WikiProperties;
 import org.springframework.ai.tool.annotation.Tool;
 import org.springframework.ai.tool.annotation.ToolParam;
 import org.springframework.stereotype.Service;
